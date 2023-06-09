@@ -1,0 +1,11 @@
+appid,simnow_client_test
+authcode,0000000000000000
+product,simnow
+brokerId,9999
+userId,212961
+passwd,Taipei9536#
+contract,ni2306
+contract1,IC2206
+contract2,IC2205
+MarketFront,tcp://180.168.146.187:10111
+TradeFront,tcp://180.168.146.187:10101
